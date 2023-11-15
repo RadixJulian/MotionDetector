@@ -1,5 +1,5 @@
 # MotionDetector
-A simple motion detector which sets off an alarm when it notises enough movement
+A simple motion detector which sets off an alarm when it notices enough movement
 
 ## When you run the program a small camera box appears.
 
